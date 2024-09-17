@@ -1,13 +1,13 @@
 import React from 'react';
-import I1 from '../assets/Group 7.svg';
-import I2 from '../assets/Group 10.svg';
-import I3 from '../assets/Group 13.svg';
-import I4 from '../assets/Group 11.svg';
-import I5 from '../assets/Group 12.svg';
-import I6 from '../assets/Group 14.svg';
-import I7 from '../assets/Image 2.svg';
-import I8 from '../assets/vector 15.svg';
-import I9 from '../assets/Group 8.png';
+import I1 from '/assets/Group 7.svg';
+import I2 from '/assets/Group 10.svg';
+import I3 from '/assets/Group 13.svg';
+import I4 from '/assets/Group 11.svg';
+import I5 from '/assets/Group 12.svg';
+import I6 from '/assets/Group 14.svg';
+import I7 from '/assets/image 2.svg';
+import I8 from '/assets/Vector 15.svg';
+import I9 from '/assets/Group 8.png';
 
 
 

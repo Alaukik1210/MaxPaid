@@ -1,9 +1,9 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faLeftLong } from "@fortawesome/free-solid-svg-icons";
-import free from "../assets/free.svg";
-import recru from "../assets/recru.svg";
-import welcome from '../assets/welcome.png';
+import free from "/assets/free.svg";
+import recru from "/assets/recru.svg";
+import welcome from '/assets/welcome.png';
 
 const Welcome = () => {
   return (

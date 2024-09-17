@@ -20,7 +20,7 @@ module.exports = {
         "product-sans-medium": "'Product Sans Medium'",
       },
       backgroundImage: {
-        'hero-pattern': "url('src/assets/bg2.svg')",
+        'hero-pattern': "url('/assets/bg2.svg')",
         'footer-texture': "url('/img/footer-texture.png')",
       
     },

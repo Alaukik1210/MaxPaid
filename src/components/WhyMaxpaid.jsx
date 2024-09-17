@@ -1,10 +1,10 @@
 import React from 'react'
-import whymax from '../assets/whymax.svg'
-import whymax2 from'../assets/whymax2.svg'
-import book from '../assets/book.svg'
-import star from '../assets/Star.svg'
-import $ from '../assets/$.svg'
-import design from '../assets/design.svg'
+import whymax from '/assets/whymax.svg'
+import whymax2 from'/assets/whymax2.svg'
+import book from '/assets/book.svg'
+import star from '/assets/Star.svg'
+import $ from '/assets/$.svg'
+import design from '/assets/design.svg'
 
 const WhyMaxpaid = () => {
   return (

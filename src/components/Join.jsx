@@ -1,6 +1,6 @@
 import React from 'react'
 import Carousel from './Slider'
-import cute from '../assets/cute.svg';
+import cute from '/assets/cute.svg';
 import Xoxo from './Xoxo';
 const Join = () => {
   return (

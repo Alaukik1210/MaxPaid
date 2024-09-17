@@ -1,5 +1,5 @@
 import React from 'react';
-import bgImage from '../assets/bg1.svg'; 
+import bgImage from '/assets/bg1.svg'; 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {faSearch} from '@fortawesome/free-solid-svg-icons';
 

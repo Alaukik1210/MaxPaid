@@ -1,6 +1,6 @@
 import React from "react";
-import login from "../assets/login1.svg";
-import register from "../assets/register.svg";
+import login from "/assets/login1.svg";
+import register from "/assets/register.svg";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faLeftLong } from "@fortawesome/free-solid-svg-icons";
 import { useNavigate } from "react-router-dom";

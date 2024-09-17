@@ -1,5 +1,5 @@
 import React from 'react'
-import bg2 from '../assets/bg2.svg'
+import bg2 from '/assets/bg2.svg'
 
 const Bigbg2 = () => {
   return (

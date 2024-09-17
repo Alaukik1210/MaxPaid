@@ -1,6 +1,6 @@
 import React from "react";
-import clouds from "../assets/clouds.png";
-import logo from "../assets/logo.svg";
+import clouds from "/assets/clouds.png";
+import logo from "/assets/logo.svg";
 
 
 

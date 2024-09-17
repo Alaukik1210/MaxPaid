@@ -2,8 +2,8 @@ import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faPlay } from "@fortawesome/free-solid-svg-icons";
 import { motion } from "framer-motion";
-import mask1 from "../assets/mask1.svg";
-import rates from "../assets/rates.svg";
+import mask1 from "/assets/Mask1.svg";
+import rates from "/assets/rates.svg";
 
 const Profile = () => {
   return (
