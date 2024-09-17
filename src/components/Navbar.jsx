@@ -20,7 +20,7 @@ const navigate = useNavigate();
         </div>
 
         <div className='text-white flex gap-8 m-8 justify-items-center font-extrabold font-product-sans mt-12'>
-            <h2 onClick={()=> navigate("/home")} className='hover:text-lime font-extrabold text-lg   hover:underline-offset-4 duration-300 ease-in-out cursor-pointer '>
+            <h2 onClick={()=> navigate("/")} className='hover:text-lime font-extrabold text-lg   hover:underline-offset-4 duration-300 ease-in-out cursor-pointer '>
              Home</h2>
             <h2 className='hover:text-lime font-extrabold text-lg  hover:underline-offset-4 duration-300 ease-in-out cursor-pointer '>Blog</h2>
             <h2 className='hover:text-lime font-extrabold text-lg  hover:underline-offset-4 duration-300 ease-in-out cursor-pointer '>explore</h2>
