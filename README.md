@@ -1,4 +1,4 @@
-# React + Vite
+# MaxPaid
 The project is not 100% complete yet, but for now, the frontend work is done up to where the designer has completed. It is not responsive yet, as the mobile design is not ready, but I will work on it soon.
 
 
